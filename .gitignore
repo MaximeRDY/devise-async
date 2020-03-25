@@ -17,3 +17,4 @@ spec/examples.txt
 spec/support/rails_app/log/*
 spec/support/rails_app/db/*.sqlite3
 tmp
+.ruby-gemset
